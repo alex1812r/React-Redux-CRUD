@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "El pipi que hizo pupu",
+      "precio": "500"
+    },
+    {
+      "nombre": "Incognita del Corazon",
+      "precio": "250",
+      "id": 2
+    },
+    {
+      "nombre": "Escroto Mac Bolas de Moco",
+      "precio": "1000",
+      "id": 3
+    },
+    {
+      "nombre": "La Culpa es de la Vaca",
+      "precio": "500",
+      "id": 4
+    },
+    {
+      "nombre": "Manual para el entendimiento del pensar de las mujeres",
+      "precio": "10000",
+      "id": 5
+    }
+  ]
+}
